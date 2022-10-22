@@ -7,7 +7,7 @@
   <div style="margin-top:30px"></div>
 
 ### 🖍 __HOW DOES IT WORK?__
-- Get access to the website using this [whitelistDapp]()
+- Get access to the website using this [whitelistDapp](https://whitelistdapp-wheat.vercel.app/)
 * You sign in with your wallet using metamask
 * After That you join the whitelistby performing a transaction , which will modify the state of the blockchain 
 * Then the ui will be notified that you have joined te waitlist
